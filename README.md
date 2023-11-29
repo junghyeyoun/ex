@@ -4,19 +4,19 @@
 
 # 목차
 - [프로젝트 개요](#프로젝트-개요)
-- skill set
-- 시연 동영상
-- 회의록
-- 프로젝트 문서
-- 사용 데이터
-- 데이터 분석 과정
-- 웹 개발 과정
+- [skill set](#skill-set)
+- [시연 동영상](#시연-동영상)
+- [회의록](#회의록)
+- [프로젝트 문서](#프로젝트-문서)
+- [사용 데이터](#사용-데이터)
+- [데이터 분석 과정](#데이터-분석-과정)
+- [웹 개발 과정](#웹-개발-과정)
 - [참조 사이트](#참조-사이트)
   
 # <a name="프로젝트-개요">프로젝트 개요</a>
 어쩌고 저쩌고
 
-# skll set
+# <a name="skill-set">skll set</a>
 #### 📍 데이터 분석
 <img src="https://img.shields.io/badge/Python-3776AB6?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"> 
 
@@ -26,22 +26,22 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/JPA-000000?style=for-the-badge&logo=JPA&logoColor=white">
 
-# 시연 동영상
+# <a name="시연-동영상">시연 동영상</a>
 다 만든 후
 
-# 회의록
+# <a name="회의록">회의록</a>
 <a href="">첫번째 회의</a>...
 
-# 프로젝트 문서
+# <a name="프로젝트-문서">프로젝트 문서</a>
 ## WBS
 
 ## 
 
-# 사용 데이터
+# <a name="사용-데이터">사용 데이터</a>
 
 
-# 데이터 분석 과정
+# <a name="데이터-분석-과정">데이터 분석 과정</a>
 
-# 웹 개발 과정
+# <a name="웹-개발-과정">웹 개발 과정</a>
 
 # <a name="참조-사이트">참조 사이트</a>
