@@ -1,4 +1,5 @@
-# 따랑 🚲
+![header](https://capsule-render.vercel.app/api?type=wave&color=68C186&height=350&section=header&text=따랑🚲&fontSize=60&fontColor=C1BAB8&stroke=3A2F32&strokeWidth=2&animation=twinkling)
+
 - 참여자 : 김민규, 김예진, 안준수, 윤정혜, 한국인, 허준호 (6명)
 - 총 개발기간 : 2023/11/ ~
 
@@ -33,15 +34,58 @@
 <a href="">첫번째 회의</a>...
 
 # <a name="프로젝트-문서">프로젝트 문서</a>
-## WBS
+#### 1. WBS
 
-## 
+#### 2. 기능 정의서
+
+#### 3. ERD
+
+
 
 # <a name="사용-데이터">사용 데이터</a>
-
+이쪽저쪽에서 데이터 가져옴
+.
+.
+.
+.
+.
+.
 
 # <a name="데이터-분석-과정">데이터 분석 과정</a>
+이런저런 과정
+.
+.
+.
+.
+.
 
 # <a name="웹-개발-과정">웹 개발 과정</a>
+이러쿵저러쿵
+.
+.
+
+.
+.
+
+.
+.
+
+
+.
+
+
+.
 
 # <a name="참조-사이트">참조 사이트</a>
+이쪽저쪽 .
+.
+..
+..
+..
+
+.
+.
+.
+.
+.
+.
