@@ -47,9 +47,11 @@
 # <a name="프로젝트-문서">프로젝트 문서</a>
 #### 1. WBS
 
-#### 2. 기능 정의서
+#### 2. IA(information architecture)
 
-#### 3. ERD
+#### 3. UI Flow
+
+#### 4. ERD
 
 
 
