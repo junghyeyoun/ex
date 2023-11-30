@@ -28,7 +28,7 @@
 
 
 
-# <a name="skill-set">skll set</a>
+# <a name="skill-set">skill set</a>
 #### 📍 데이터 분석
 <img src="https://img.shields.io/badge/Python-3776AB6?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"> 
 
